@@ -1,20 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Douglas%20Santos%20|%20QA%20Engineer&animation=fadeIn&color=7b2cbf&height=120&fontColor=ffffff" alt="Banner Header"/>
-</p>
-
 <h1 align="center">👋 Olá, eu sou o Douglas Santos</h1>
 <p align="center">Especialista em Quality Assurance | Testes Automatizados & QA Documentation</p>
 
 ---
 
-### 🚀 Sobre Mim
-Profissional de **Quality Assurance (QA)** com experiência em **testes manuais e automatizados** (Delphi & Web).  
-Expertise em gestão de processos de testes, documentação, automação e melhoria contínua.  
-Experiência também em implantação de sistemas e suporte técnico — visão completa do ciclo de software.
-
----
-
-### 🌐 Meu Portfólio
 <p align="center">
   <a href="https://douglas-si-sa-portifolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-7b2cbf?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="300"/>
@@ -23,7 +11,16 @@ Experiência também em implantação de sistemas e suporte técnico — visão 
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;Test+Automation+Specialist;Software+Quality+Advocate" alt="Typing SVG" />
+</div>
+
+### 🚀 Sobre Mim
+Profissional de **Quality Assurance (QA)** com experiência em **testes manuais e automatizados** (Delphi & Web).  
+Expertise em gestão de processos de testes, documentação, automação e melhoria contínua.  
+Experiência também em implantação de sistemas e suporte técnico — visão completa do ciclo de software.
+
+## 🛠️ Stack Tecnológica
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robot%20Framework-7b2cbf?style=for-the-badge&logo=robotframework&logoColor=white"/>
@@ -37,51 +34,49 @@ Experiência também em implantação de sistemas e suporte técnico — visão 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
----
 
-### 💡 Soluções que Posso Oferecer
+</div>
 
-🔹 **Automação de Testes Web e Mobile**  
-- Criação de suítes de testes com **Selenium, Katalon Studio e Robot Framework**.  
-- Garantia de estabilidade e qualidade em aplicações web.  
+## 📈 GitHub Stats
 
-🔹 **Validação de APIs**  
-- Testes automatizados de endpoints REST com **Postman** e **Robot Framework (RPA.HTTP)**.  
-- Monitoramento e validação em pipelines.  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-santos&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-🔹 **Integração Contínua com Qualidade (CI/CD)**  
-- Configuração de pipelines em **Jenkins** e **GitLab CI**.  
-- Execução automática de testes em cada build/deploy.  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas-santos&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-🔹 **QA Documentation & BDD**  
-- Escrita de cenários em **Gherkin/BDD**.  
-- Documentação legível e compartilhável com áreas técnicas e de negócio.  
+## 🎯 Projetos em Destaque
 
-🔹 **RPA e Automação de Processos**  
-- Automação de tarefas repetitivas (Excel, e-mails, relatórios).  
-- Redução de erros humanos e ganho de produtividade.  
+<div align="center">
 
----
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=douglas-santos&repo=automation-framework&theme=tokyonight)](https://github.com/douglas-santos/automation-framework)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=douglas-santos&repo=qa-tools&theme=tokyonight)](https://github.com/douglas-santos/qa-tools)
 
-### 📊 Estatísticas GitHub
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&title_color=7b2cbf&icon_color=7b2cbf" alt="GitHub Stats" />
-</p>
+## 📫 Vamos Conectar?
 
----
+<div align="center">
 
-### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/douglassssantos/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.si.sa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://douglas-si-sa-portifolio.vercel.app)
 
-<p align="center">
-  <a href="mailto:douglas.si.sa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-douglas.si.sa%40gmail.com-7b2cbf?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-7b2cbf?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-✨ **Busco oportunidades de colaboração em QA, automação de testes e integração de qualidade em pipelines DevOps.**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=douglas-santos&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  **"A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente."** 
+  
+  *- John Ruskin*
+  
+</div>
