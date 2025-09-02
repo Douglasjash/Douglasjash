@@ -1,24 +1,18 @@
-<h1 align="center">👋 Olá, eu sou o Douglas Santos</h1>
-<p align="center">Especialista em Quality Assurance | Testes Automatizados & QA Documentation</p>
+<a href="https://komarev.com/ghpvc/?username=Douglasjash">
+<img align="right" src="https://komarev.com/ghpvc/?username=Douglasjash&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views">
+</a>
+<h1>👋 Olá, eu sou o Douglas Santos</h1>
 
----
-
-<p align="center">
-  <a href="https://douglas-si-sa-portifolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio-7b2cbf?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" width="300"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer;Test+Automation+Specialist;Software+Quality+Advocate" alt="Typing SVG" />
-</div>
-
-### 🚀 Sobre Mim
-Profissional de **Quality Assurance (QA)** com experiência em **testes manuais e automatizados** (Delphi & Web).  
+<a>
+<img align="left" width="320" height="130" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&left=true&left=true&width=320&lines=Quality+Assurance+Engineer;Test+Automation+Specialist;Software+Quality+Advocate" alt="Typing SVG"  >
+</a>
+<div align="justify">
+Profissional de **Quality Assurance (QA)** com experiência em **testes manuais e automatizados** (Sistemas legados/Desktop & Web).  
 Expertise em gestão de processos de testes, documentação, automação e melhoria contínua.  
 Experiência também em implantação de sistemas e suporte técnico — visão completa do ciclo de software.
+</div>
+
+<br>
 
 ## 🛠️ Stack Tecnológica
 
@@ -34,26 +28,23 @@ Experiência também em implantação de sistemas e suporte técnico — visão 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-
-</div>
-
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglas-santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-santos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="600" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Douglasjash&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img width="320" height="130" src="https://github-readme-stats.vercel.app/api?username=Douglasjash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img width="320" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasjash&layout=compact&langs_count=7&theme=tokyonight">
+  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglas-santos&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🎯 Projetos em Destaque
 
 <div align="center">
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=douglas-santos&repo=automation-framework&theme=tokyonight)](https://github.com/douglas-santos/automation-framework)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=douglas-santos&repo=qa-tools&theme=tokyonight)](https://github.com/douglas-santos/qa-tools)
+[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=Douglasjash&repo=automation-framework&theme=tokyonight)](https://github.com/Douglasjash/automation-framework)
+[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=Douglasjash&repo=qa-tools&theme=tokyonight)](https://github.com/Douglasjash/qa-tools)
 
 </div>
 
@@ -61,22 +52,13 @@ Experiência também em implantação de sistemas e suporte técnico — visão 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/douglassssantos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/douglassssantos)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.si.sa@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://douglas-si-sa-portifolio.vercel.app)
 
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=douglas-santos&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-  **"A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente."** 
-  
-  *- John Ruskin*
-  
-</div>
+ <p align="center"> 
+  **"A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente."**
+ </p> 
